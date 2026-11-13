@@ -165,7 +165,7 @@ Proyek ini dikembangkan oleh Kelompok 12 sebagai bagian dari tugas mata kuliah D
 | No. | Nama | NIM |
 |---|---|---|
 | 1 | Achmad Wildan Miftakhudin | 244311032 |
-| 2 | Alfiansyah Wahyu Pratama | 2443111034 |
+| 2 | Alfiansyah Wahyu Pratama | 244311034 |
 | 3 | Irham Najib Azimul Qowi | 244311045 |
 
 ## Status Proyek
