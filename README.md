@@ -10,14 +10,14 @@
 **Anggota 1:** Achmad Wildan Miftakhudin  
 **NIM:** 244311032  
 **Anggota 2:** Alfiansyah Wahyu Pratama  
-**NIM:** 2443111034  
+**NIM:** 244311034  
 **Anggota 3:** Irham Najib Azimul Qowi  
 **NIM:** 244311045  
 **Program Studi:** Teknologi Rekayasa Perangkat Lunak  
 **Mata Kuliah:** Data Science  
-**Dosen Pengampu:** [Isi nama dosen]  
+**Dosen Pengampu:** Gus Nanang Syaifuddiin, S.Kom., M.Kom.,
 **Tahun Akademik:** Semester 5 (Ganjil 2026/2027)  
-**Link GitHub Repository:** [Masukkan URL repository `wildfire-pm25-prediction`]  
+**Link GitHub Repository:** https://github.com/Achmad-Wildan-M/wildfire-pm25-prediction
 **Link Video Pembahasan:** [Masukkan URL video jika sudah tersedia]  
 **SDG yang Dipilih:** SDG 3 – Kehidupan Sehat dan Sejahtera (Good Health and Well-Being)  
 **Target SDG yang Relevan:** Target 3.9 – Mengurangi secara signifikan jumlah kematian dan penyakit akibat bahan kimia berbahaya serta pencemaran udara, air, dan tanah.
